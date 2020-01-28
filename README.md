@@ -27,7 +27,7 @@ To Start, direct your terminal to the liriBot folder. Key in 'npm i', so all nec
     ![](screenshots/photo4.PNG)
     
 - if you want to search for a movie, type, "movie-this"
-    *example: node liri.js movie this inception*
+    *example: node liri.js movie-this inception*
     
     ![](screenshots/photo5.PNG)
     
@@ -36,10 +36,14 @@ To Start, direct your terminal to the liriBot folder. Key in 'npm i', so all nec
     *example: node liri.js do-what-it-says*
     **notes on writing instructions on random.txt:** please key in your instruction as you would in your terminal, ie. concert-this / spotify-this-song /movie-this , followed by a comma and then your search query
         *example: concert-this, cher*
-
-    ![](screenshots/photo1.PNG)
+      -  go to the folder and open random.txt
+    ![](screenshots/photo6.PNG)
+      -  write your instructions
+    ![](screenshots/photo7.PNG)
+      - come back to the terminal and type your command
+    ![](screenshots/photo8.PNG)
         
 
 
-Screen shots included in the screen shots 
+Thank you for veiwing this project.
 
