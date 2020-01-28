@@ -36,11 +36,13 @@ To Start, direct your terminal to the liriBot folder. Key in 'npm i', so all nec
     *example: node liri.js do-what-it-says*
     **notes on writing instructions on random.txt:** please key in your instruction as you would in your terminal, ie. concert-this / spotify-this-song /movie-this , followed by a comma and then your search query
         *example: concert-this, cher*
-      -  go to the folder and open random.txt
+        
+        
+   * go to the folder and open random.txt
     ![](screenshots/photo6.PNG)
-      -  write your instructions
+   * write your instructions
     ![](screenshots/photo7.PNG)
-      - come back to the terminal and type your command
+   * come back to the terminal and type your command
     ![](screenshots/photo8.PNG)
         
 
