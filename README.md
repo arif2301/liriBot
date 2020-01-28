@@ -10,6 +10,9 @@ The application is written in JavaScript. The first are declaring all the variab
 ## Instruction
 To Start, direct your terminal to the liriBot folder. Key in 'npm i', so all necessary JS files are downloaded.
 
+![](screenshots/photo1.PNG)
+
+
 **Once completed**, you are ready to run this program. Key in "node liri.js " followed by one of the 4 commands, a space and then your search query:
 - if you want to search for a concert, type, "concert-this"
     *example: node liri.js concert-this shawn mendes*
