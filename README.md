@@ -40,7 +40,7 @@ To Start, direct your terminal to the liriBot folder. Key in 'npm i', so all nec
         
    * go to the folder and open random.txt
     ![](screenshots/photo6.PNG)
-   * write your instructions
+   * write your instructions <br/>
     ![](screenshots/photo7.PNG)
    * come back to the terminal and type your command
     ![](screenshots/photo8.PNG)
